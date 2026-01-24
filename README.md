@@ -1,10 +1,9 @@
 # 🍦 Happy Scoop - Ice Cream Paradise
 
 A delightful and interactive ice cream shop website with vibrant colors.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/811e0eb1-d73e-45a8-bc67-a09f3ba712c5" />
+<img width="1920" height="891" alt="Screenshot (732)" src="https://github.com/user-attachments/assets/9387ba87-de34-4c2a-9516-1ad1e48e6599" />
 
-
-## ✨ Features
+## ✨ Featues
 
 - 🎨 **Interactive Hover Effects** - Change colors and images on hover
 - 🌈 **Dynamic Color Schemes** - Each flavor has its own color palette
