@@ -1,8 +1,8 @@
 # 🍦 Happy Scoop - Ice Cream Paradise
 
 A delightful and interactive ice cream shop website with vibrant colors.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/811e0eb1-d73e-45a8-bc67-a09f3ba712c5" />
 
-![Happy Scoop Preview](images/image%20(4).png)
 
 ## ✨ Features
 
@@ -17,9 +17,6 @@ A delightful and interactive ice cream shop website with vibrant colors.
 - **JavaScript** - Interactive functionality
 - **Google Fonts** - Typography (Inter, Montserrat, Playwrite AU TAS)
 
-## 🚀 Live Demo
-
-👉 [View Live Website](https://shahdmedhat35.github.io/Happy-Scoop/)
 
 ## 📁 Project Structure
 Happy-Scoop/
