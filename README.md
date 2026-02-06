@@ -10,7 +10,7 @@ A delightful and interactive ice cream shop website with vibrant colors.
 - 🔄 **Real-time Updates** - All elements update simultaneously
 
 ##✨ Live Demo
-https://vimeo.com/1162390590?fl=ip&fe=ec
+👉 [View Live Project](https://vimeo.com/1162390590?fl=ip&fe=ec)
 
 ## 🛠️ Technologies Used
 
