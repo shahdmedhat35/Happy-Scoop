@@ -9,6 +9,9 @@ A delightful and interactive ice cream shop website with vibrant colors.
 - 🌈 **Dynamic Color Schemes** - Each flavor has its own color palette
 - 🔄 **Real-time Updates** - All elements update simultaneously
 
+##✨ Live Demo
+https://vimeo.com/1162390590?fl=ip&fe=ec
+
 ## 🛠️ Technologies Used
 
 - **HTML5** - Semantic markup
